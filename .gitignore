@@ -33,3 +33,6 @@ go.work.sum
 
 *~
 config.json
+clientip
+clientip.service
+log.json
