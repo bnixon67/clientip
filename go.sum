@@ -1,0 +1,6 @@
+github.com/bnixon67/required v0.0.0-20240430043854-ee7655c6b15f h1:drg60Ee7IYTIS4u4jJoPpIeFO5+2kg2oWpPw2kdWUA8=
+github.com/bnixon67/required v0.0.0-20240430043854-ee7655c6b15f/go.mod h1:vEsB5Qr1QzOvEPudLvecNoAHE/EApLJ5FkCTwFE89AQ=
+github.com/bnixon67/webapp v0.0.0-20250315233113-569c22bb50a4 h1:6OMXKjps2VBWrSW/0jKd6I3UcFSQXPN0F7zPyJ2CCbU=
+github.com/bnixon67/webapp v0.0.0-20250315233113-569c22bb50a4/go.mod h1:rQp/5GEADi0WgQKcWY839y2GysQ/HugnCtidq5XS2GA=
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
